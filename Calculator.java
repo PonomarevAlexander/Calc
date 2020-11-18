@@ -2,6 +2,7 @@ package com.ponomarev.calculator;
 
 public class Calculator {
     public int toAdd(int a, int b) {
+        return a + b;
     }
     public double toAdd(double a, double b) {
         return a + b;
